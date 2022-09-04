@@ -1,5 +1,4 @@
-url: 'cslab.or.kr'
-baseURL: 'junukwon7'
+baseURL: 'cslab.or.kr/junukwon7/'
 languageCode: en-us
 title: JUNU
 theme: 'hugo-profile'
