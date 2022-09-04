@@ -14,18 +14,13 @@ markup:
 
 Menus:
   main:
-    - identifier: blog
-      name: Blog
-      title: Blog posts
-      url: /blogs
+    - identifier: Home
+      name: Home
+      title: CSLAB Home
+      url: /
       weight: 1
+   
     
-    - identifier: gallery
-      name: Gallery
-      title: Blog posts
-      url: /gallery
-      weight: 2
-
     #Dropdown menu
     # - identifier: dropdown
     #   title: Example dropdown menu
@@ -101,8 +96,8 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Junu Kwon"
-    subtitle: "I build things for the web"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
+    subtitle: "I build things for the world"
+    content: "A passionate developer.Currently working on Neural Network Compression, Computer Vision, and Algorithm(PS)."
     image: /images/hero.svg
     button:
       enable: true
@@ -125,84 +120,90 @@ params:
     title: "About Me"
     image: "/images/me.png"
     content: |-
-      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. 
-
-      I am currently working on a project that will be used to help people find the best way to get around the city.
+      I am a software developer. I have a background in computer science and mathematics, and I have a strong interest in the intersection of theory and engineering. I am currently working  as a MLOps Engineer at [FriendliAi](https://friendli.ai) in SNU, Seoul.
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
       items:
-        - "HTML"
-        - "CSS"
-        - "JavaScript"
-        - "React"
-        - "Node"
-        - "Express"
+        - "PyTorch"
+        - "FastAPI"
+        - "K8s"
+        - "CUDA"
+        - "Python"
+        - "Cloud(AWS, GCP, Azure)"
 
   # Experience
   experience:
     enable: true
     # title: "Custom Name"
     items:
-      - job: "Senior Software Developer"
-        company: "Facebook"
-        companyUrl: "https://example.com"
-        date: "Jan 2022 - present"
+      - job: "MLOps Engineer"
+        company: "FriendliAi"
+        companyUrl: "https://friendli.ai"
+        date: "Jul 2022 - present"
         featuredLink:
-          enable: true
+          enable: false
           name: "View the project"
           url: "https://example.com"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+        content: |
+          I am currently working as a MLOps Engineer at [FriendliAi](https://friendli.ai) in SNU, Seoul.
+          
+          I work on a project hadling hyper-scale AI simple for the enterprise.
+          
+          - Kubernetes cluster orchestration for AI inference servers
+          - E2E and Unit tests
+          - GCP, AWS, Azure implementation with FastAPI
 
       - job: "Software Developer"
-        company: "Amazon"
-        companyUrl: "https://example.com"
-        date: "Sep 2020 - Dec 2021"
+        company: "Seoul National University"
+        companyUrl: "https://ist.snu.ac.kr"
+        date: "Feb 2022 - Jun 2022"
         featuredLink:
           enable: true
-          url: "https://example.com"
+          url: "https://ist.snu.ac.kr"
         info:
           enable: true
-          content: I worked as a software developer for more than one year in Amazon.
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+          I worked as a software developer in Seoul National University.
+          
+          - Database management, Oracle SQL
+          - eGovFramework developer (Java Spring)
+          - Web server deployment via Jenkins
+          - User interface design for administrator website
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+#       - job: "Junior Software Developer"
+#         company: "Apple"
+#         companyUrl: "https://example.com"
+#         date: "Jan 2020 - Aug 2020"
+#         info:
+#           enable: false
+#         featuredLink:
+#           enable: true
+#           url: "https://example.com"
+#         content: |
+#           I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
 
-      - job: "Junior Software Developer"
-        company: "Apple"
-        companyUrl: "https://example.com"
-        date: "Jan 2020 - Aug 2020"
-        info:
-          enable: false
-        featuredLink:
-          enable: true
-          url: "https://example.com"
-        content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+#           - Lead backend developer for a product.
+#           - Created a frontend design for a product.
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+#       - job: "UI/UX Designer"
+#         company: "Netflix"
+#         companyUrl: "https://example.com"
+#         date: "June 2017 - Nov 2019"
+#         featuredLink:
+#           enable: true
+#           url: "https://example.com"
+#         content: |
+#           I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
 
-      - job: "UI/UX Designer"
-        company: "Netflix"
-        companyUrl: "https://example.com"
-        date: "June 2017 - Nov 2019"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
-        content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+#           - Lead backend developer for a product.
+#           - Created a frontend design for a product.
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
-
-      - job: "Product Designer"
-        company: "Google"
-        companyUrl: "https://example.com"
-        date: "Feb 2016 - Mar 2017"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+#       - job: "Product Designer"
+#         company: "Google"
+#         companyUrl: "https://example.com"
+#         date: "Feb 2016 - Mar 2017"
+#         content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
 
   # Education
   education:
@@ -220,9 +221,9 @@ params:
 #           Extracurricular Activities
 #             - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
 #             - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-      - title: "College of Liberal Studies"
+      - title: "Bachelor of Engineering in Computer Science & Engineering (expected)"
         school:
-          name: "Seoul National University"
+          name: "Seoul National University, College of Liberal Studies"
           url: "https://snu.ac.kr"
         date: "2022 - 2026"
         GPA: "4.25 out of 4.3"
@@ -253,14 +254,14 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - title: Presidential Science Scholarship *(대통령과학장학금)*
+      - title: Presidential Science Scholarship (대통령과학장학금)
         content: USD 50,000 equivalent
-      - title: National Science \& Technology Scholarship *(이공계국가우수장학금이공계국가우수장학금)*
+      - title: National Science & Technology Scholarship (이공계국가우수장학금이공계국가우수장학금)
         content: Renounced due to the Presidential Science Scholarsihp
-      - title: Korea Olympiad in Informatics, 2nd Round, *Bronze*
-        content: Ranked 73 among 205 contestants(TOP 35.61\%) in *2021년 한국정보올림피아드 2차대회 고등부*
-      - title: Korea Olympiad in Informatics, 1st Round, *Silver*
-        content: Ranked in the TOP 3.614\% in *2021년 한국정보올림피아드 1차대회 고등부 전체응시자부문*
+      - title: Korea Olympiad in Informatics, 2nd Round, Bronze
+        content: Ranked 73 among 205 contestants(TOP 35.61%) in 2021년 한국정보올림피아드 2차대회 고등부
+      - title: Korea Olympiad in Informatics, 1st Round, Silver
+        content: Ranked in the TOP 3.614% in 2021년 한국정보올림피아드 1차대회 고등부 전체응시자부문
       - title: Codeforces, Master
         content: Rated 2266, Educational Codeforces Round 81 (Rated for Div. 2)
 
