@@ -331,12 +331,12 @@ params:
   contact:
     enable: true
     #title: "Custom name"
-    content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
+    content: My inbox is always open. Whether you have a question or just want to say hi!
     email: junukwon7@gmail.com
     btnName: Mail Me
 
   footer:
-    # recentPosts: false
+    recentPosts: false
     socialNetworks:
       github: https://github.com/junukwon7
       linkedin: https://linkedin.com/in/junukwon
