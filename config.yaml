@@ -1,4 +1,4 @@
-baseURL: 'junukwon7.github.io/junukwon7/'
+baseURL: ''
 languageCode: en-us
 title: JUNU
 theme: 'hugo-profile'
@@ -45,19 +45,19 @@ Menus:
     #   weight: 2
 
 params:
-  title: "Hugo Profile"
+  title: "Junu Kwon"
   description: Text about my cool site
   # staticPath: ""  # The path to serve the static files from
-  favicon: "/fav.png"
+  favicon: "/assets/favicon.png"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
   # Note the lack of "" in true, it should be of boolean type.
-  useBootstrapCDN: false
+  useBootstrapCDN: true
 
   theme:
-    disableThemeToggle: true
-    # defaultTheme: "light" # dark
+    disableThemeToggle: false
+    defaultTheme: "light" # dark
 
   # font:
   #   fontSize: 1.5rem # default: 1rem
@@ -321,14 +321,14 @@ params:
     enable: true
     #title: "Custom name"
     content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
-    email: gurusabarisha@gmail.com
-    btnName: Mail me
+    email: junukwon7@gmail.com
+    btnName: Mail
 
   footer:
     # recentPosts: false
     socialNetworks:
-      github: https://github.com
-      linkedin: https://linkedin.com
-      twitter: https://twitter.com
-      instagram: https://instagram.com
-      facebook: https://facebook.com
+      github: https://github.com/junukwon7
+      linkedin: https://linkedin.com/in/junukwon
+      #twitter: https://twitter.com
+      #instagram: https://instagram.com
+      facebook: https://facebook.com/kwon.junu
