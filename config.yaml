@@ -97,7 +97,7 @@ params:
     intro: "Hi, my name is"
     title: "Junu Kwon"
     subtitle: "I build things for the world"
-    content: "A passionate developer.Currently working on Neural Network Compression, Computer Vision, and Algorithm(PS)."
+    content: "A passionate developer. Currently working on Neural Network Compression, Computer Vision, and Algorithm(PS)."
     image: /images/image.png
     button:
       enable: true
@@ -326,7 +326,7 @@ params:
     #title: "Custom name"
     content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
     email: junukwon7@gmail.com
-    btnName: Mail
+    btnName: Mail Me
 
   footer:
     # recentPosts: false
