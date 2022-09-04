@@ -4,7 +4,7 @@ My name is JUNU KWON / 권준우. Call me Junu.
 
 Currently working on Neural Network Compression, Computer Vision, and Algorithm(PS)
 
-Visit [cslab.or.kr](http://cslab.or.kr/)!
+Visit [cslab.or.kr](http://cslab.or.kr/junukwon7)!
 
 
 Education
