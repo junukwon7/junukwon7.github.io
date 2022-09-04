@@ -150,6 +150,7 @@ params:
           - Kubernetes cluster orchestration for AI inference servers
           - E2E and Unit tests
           - GCP, AWS, Azure implementation with FastAPI
+          - Issue, Bug tracking with Jira, Git \& Slack
 
       - job: "Software Developer"
         company: "Seoul National University"
