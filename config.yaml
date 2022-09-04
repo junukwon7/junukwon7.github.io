@@ -156,7 +156,7 @@ params:
         companyUrl: "https://ist.snu.ac.kr"
         date: "Feb 2022 - Jun 2022"
         featuredLink:
-          enable: true
+          enable: false
           url: "https://ist.snu.ac.kr"
         info:
           enable: true
@@ -257,7 +257,7 @@ params:
           USD 50,000 equivalent
       - title: National Science & Technology Scholarship
         content: |
-          이공계국가우수장학금이공계국가우수장학금
+          이공계국가우수장학금
           Renounced due to the Presidential Science Scholarsihp
       - title: Korea Olympiad in Informatics, 2nd Round, Bronze
         content: |
@@ -266,7 +266,7 @@ params:
       - title: Korea Olympiad in Informatics, 1st Round, Silver
         content: |
           2021년 한국정보올림피아드 1차대회 고등부 전체응시자부문
-          Ranked in the TOP 3.614% in
+          Ranked in the TOP 3.614%
       - title: Codeforces, Master
         content: Rated 2266, Educational Codeforces Round 81 (Rated for Div. 2)
 
