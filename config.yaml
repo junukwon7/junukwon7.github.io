@@ -15,9 +15,9 @@ markup:
 Menus:
   main:
     - identifier: Home
-      name: Home
-      title: CSLAB Home
-      url: /
+      name: CSLAB
+      title: CSLAB
+      url: https://cslab.or.kr/
       weight: 1
    
     
