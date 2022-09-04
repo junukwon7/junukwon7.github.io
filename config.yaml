@@ -102,7 +102,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "Junu_Kwon_s_Curriculum_Vitae.pdf"
+      url: "/Junu_Kwon_s_Curriculum_Vitae.pdf"
       download: true 
     socialLinks:
       fontAwesomeIcons:
