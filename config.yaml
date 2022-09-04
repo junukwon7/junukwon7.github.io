@@ -56,7 +56,7 @@ params:
   useBootstrapCDN: false
 
   theme:
-    disableThemeToggle: false
+    disableThemeToggle: true
     # defaultTheme: "light" # dark
 
   # font:
