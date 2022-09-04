@@ -210,61 +210,58 @@ params:
     # title: "Custom Name"
     # index: true
     items:
-      - title: "Master of Business Administration"
+#       - title: "Master of Business Administration"
+#         school:
+#           name: "University of California, Berkeley"
+#           url: "https://example.org"
+#         date: "2013 - 2015"
+#         GPA: "3.8 out of 5.0"
+#         content: |-
+#           Extracurricular Activities
+#             - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+#             - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+      - title: "College of Liberal Studies"
         school:
-          name: "University of California, Berkeley"
-          url: "https://example.org"
-        date: "2013 - 2015"
-        GPA: "3.8 out of 5.0"
-        content: |-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-      - title: "Bachelor of Science in Computer Science"
-        school:
-          name: "Massachusetts Institute of Technology"
-          url: "https://example.org"
-        date: "2009 - 2013"
-        GPA: "3.9 out of 5.0"
-        content: |-
-          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
-          - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
-          - Face mask detection using a single convolutional neural network.
-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+          name: "Seoul National University"
+          url: "https://snu.ac.kr"
+        date: "2022 - 2026"
+        GPA: "4.25 out of 4.3"
+        #content:
         featuredLink:
-          enable: true
-          name: "My academic record"
-          url: "https://example.com"
+          enable: false
+#           name: "My academic record"
+#           url: "https://example.com"
       - title: "High School"
         school:
-          name: "Thomas Jefferson High School for Science and Technology."
-          url: "https://example.org"
-        GPA: "4.2 out of 5.0"
+          name: "Gyeonggi Science High School for the gifted."
+          url: "https://gs.hs.kr"
+        date: "2019 - 2022"
+        GPA: "4.0 out of 4.3"content: |-
+          Graduation thesis
+          - [Quantization and Pruning Methods for Compressing Object Detection Networks](https://github.com/junukwon7/GSHSGraduationThesis/raw/main/2021-06-01%20Quantization%20and%20Pruning%20Methods%20for%20Compressing%20Object%20Detection%20Networks%2C%20Junu%20Kwon(19007).pdf)
+          
+          Research
+          - Compressing YOLO via Quantization and Pruning, *Silver medal* at 16th Asia-Pacific Conference on Giftedness, supervised by Assistant Prof. Jae-Pil Heo, SKKU
+          - 3D Image Segmentation Program Using Quantization or BFS, 48th Fall Comprehensive Conference, Korea Institute of information and Communication Engineering.
+        
         featuredLink:
-          enable: true
-          url: "https://example.com"
+          enable: false
 
   # Achievements
   achievements:
     enable: true
     # title: "Custom Name"
     items:
-      - title: Google kickstart runner
-        content: I solved all problems with optimal solution.
-        url: https://example.com
-      - title: Facebook Hackathon Winner
-        content: Developed a product using Artificial Intelligence.
-      - title: Hugo Profile
-        content: Developed a theme and getting 1K+ downloads per month.
-        url: "https://github.com/gurusabarish/hugo-profile"
-      - title: Microsoft Imagine Runner
-        content: We are developed a product which can help others.
-      - title: Google Summer of Code
-        content: Contributed to a open source project.
-        url: https://example.com
+      - title: Presidential Science Scholarship *(대통령과학장학금)*
+        content: USD 50,000 equivalent
+      - title: National Science \& Technology Scholarship *(이공계국가우수장학금이공계국가우수장학금)*
+        content: Renounced due to the Presidential Science Scholarsihp
+      - title: Korea Olympiad in Informatics, 2nd Round, *Bronze*
+        content: Ranked 73 among 205 contestants(TOP 35.61\%) in *2021년 한국정보올림피아드 2차대회 고등부*
+      - title: Korea Olympiad in Informatics, 1st Round, *Silver*
+        content: Ranked in the TOP 3.614\% in *2021년 한국정보올림피아드 1차대회 고등부 전체응시자부문*
+      - title: Codeforces, Master
+       # content: Rated 2266, Educational Codeforces Round 81 (Rated for Div. 2)
 
   # projects
   projects:
