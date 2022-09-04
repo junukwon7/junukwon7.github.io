@@ -14,17 +14,17 @@ markup:
 
 Menus:
   main:
-#     - identifier: blog
-#       name: Blog
-#       title: Blog posts
-#       url: /blogs
-#       weight: 1
+    - identifier: blog
+      name: Blog
+      title: Blog posts
+      url: /blogs
+      weight: 1
     
-#     - identifier: gallery
-#       name: Gallery
-#       title: Blog posts
-#       url: /gallery
-#       weight: 2
+    - identifier: gallery
+      name: Gallery
+      title: Blog posts
+      url: /gallery
+      weight: 2
 
     #Dropdown menu
     # - identifier: dropdown
@@ -262,7 +262,7 @@ params:
       - title: Korea Olympiad in Informatics, 1st Round, *Silver*
         content: Ranked in the TOP 3.614\% in *2021년 한국정보올림피아드 1차대회 고등부 전체응시자부문*
       - title: Codeforces, Master
-       # content: Rated 2266, Educational Codeforces Round 81 (Rated for Div. 2)
+        content: Rated 2266, Educational Codeforces Round 81 (Rated for Div. 2)
 
   # projects
   projects:
