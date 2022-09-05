@@ -108,6 +108,8 @@ params:
       fontAwesomeIcons:
         - icon: fab fa-github
           url: https://github.com/junukwon7
+        - icon: fab fa-facebook
+          url: https://facebook.com/kwon.junu
         - icon: fab fa-linkedin
           url: https://linkedin.com/in/junukwon
 
@@ -255,27 +257,25 @@ params:
     # title: "Custom Name"
     items:
       - title: Presidential Science Scholarship
-        content: |
-          대통령과학장학금
-          
-          USD 50,000 equivalent
+        content: |-
+          - 대통령과학장학금
+          - USD 50,000 equivalent
       - title: National Science & Technology Scholarship
-        content: |
-          이공계국가우수장학금
-          
-          Renounced due to the Presidential Science Scholarsihp
+        content: |-
+          - 이공계국가우수장학금
+          - Renounced due to the Presidential Science Scholarsihp
       - title: Korea Olympiad in Informatics, 2nd Round, Bronze
-        content: |
-          2021년 한국정보올림피아드 2차대회 고등부
-          
-          Ranked 73 among 205 contestants(TOP 35.61%)
+        content: |-
+          - 2021년 한국정보올림피아드 2차대회 고등부
+          - Ranked 73 among 205 contestants(TOP 35.61%)
       - title: Korea Olympiad in Informatics, 1st Round, Silver
-        content: |
-          2021년 한국정보올림피아드 1차대회 고등부 전체응시자부문
-          
-          Ranked in the TOP 3.614%
+        content: |-
+          - 2021년 한국정보올림피아드 1차대회 고등부 전체응시자부문
+          - Ranked in the TOP 3.614%
       - title: Codeforces, Master
-        content: Rated 2266, Educational Codeforces Round 81 (Rated for Div. 2)
+        content: |-
+          - Rated 2266
+          - Educational Codeforces Round 81 (Rated for Div. 2)
 
   # projects
   projects:
