@@ -101,8 +101,8 @@ params:
     image: /images/image.png
     button:
       enable: true
-      name: "Resume"
-      url: "/Junu_Kwon_s_Curriculum_Vitae.pdf"
+      name: "Curriculum Vitae"
+      url: "/junukwon7/Junu_Kwon_s_Curriculum_Vitae.pdf"
       download: true 
     socialLinks:
       fontAwesomeIcons:
