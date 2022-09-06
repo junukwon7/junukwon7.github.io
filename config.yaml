@@ -319,7 +319,7 @@ params:
   contact:
     enable: true
     #title: "Custom name"
-    content: My inbox is always open. Whether you have a question or just want to say hi!
+    content: My inbox is always open. Whether you have a question or just want to say hello!
     email: junukwon7@gmail.com
     btnName: Mail Me
 
