@@ -225,7 +225,7 @@ params:
           name: "Seoul National University, College of Liberal Studies"
           url: "https://snu.ac.kr"
         date: "2022 - 2026"
-        GPA: "4.25 out of 4.3"
+        GPA: "4.24 out of 4.3"
         #content:
         featuredLink:
           enable: false
