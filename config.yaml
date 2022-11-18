@@ -262,8 +262,6 @@ params:
         content: 2021년 한국정보올림피아드 2차대회 고등부, Ranked 73 among 205 contestants(TOP 35.61%)
       - title: Korea Olympiad in Informatics, 1st Round, Silver
         content: 2021년 한국정보올림피아드 1차대회 고등부 전체응시자부문, Ranked in the TOP 3.614%
-      - title: Codeforces, Master
-        content: Rated 2266, Educational Codeforces Round 81 (Rated for Div. 2)
 
   # projects
   projects:
