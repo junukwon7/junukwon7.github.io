@@ -243,8 +243,8 @@ params:
           - [Quantization and Pruning Methods for Compressing Object Detection Networks](https://cslab.or.kr/junukwon7/Junu_Kwon_s_Curriculum_Vitae.pdf)
           
           Research
-          - Compressing YOLO via Quantization and Pruning, *Silver medal* at 16th Asia-Pacific Conference on Giftedness, supervised by Assistant Prof. Jae-Pil Heo, SKKU
-          - 3D Image Segmentation Program Using Quantization or BFS, 48th Fall Comprehensive Conference, Korea Institute of information and Communication Engineering.
+          - Compressing YOLO via Quantization and Pruning, *Silver medal* at 16th Asia-Pacific Conference on Giftedness, 2021, supervised by Assistant Prof. Jae-Pil Heo, SKKU
+          - [3D Image Segmentation Program Using Quantization or BFS, Proceedings Conference on Korea Institute of Information and Communication Engineering 24(2), pp. 293-195, 2020.](https://cslab.or.kr/junukwon7/Junu_Kwon_kiice2020.pdf)
         
         featuredLink:
           enable: false
