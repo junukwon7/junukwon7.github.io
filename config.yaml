@@ -118,7 +118,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/image.png"
+    image: "/images/formal.png"
     content: |-
       I am a software developer. I have a background in computer science and mathematics, and I have a strong interest in the intersection of theory and engineering. I am currently working  as a MLOps Engineer at [FriendliAi](https://friendli.ai) in SNU, Seoul.
     skills:
