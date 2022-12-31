@@ -42,7 +42,7 @@ Menus:
 
 params:
   title: "Junu Kwon"
-  description: Text about my cool site
+  description: About Me
   # staticPath: ""  # The path to serve the static files from
   # favicon: "/assets/favicon.png"
 
@@ -137,14 +137,14 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - job: "MLOps Engineer"
+      - job: "ML Engineer"
         company: "FriendliAi"
         companyUrl: "https://friendli.ai"
         date: "Jul 2022 - present"
         featuredLink:
           enable: false
         content: |
-          I am currently working as a MLOps Engineer at [FriendliAi](https://friendli.ai) in SNU, Seoul.
+          I am currently working as a ML Engineer at [FriendliAi](https://friendli.ai) in SNU, Seoul.
           
           I work on a project hadling hyper-scale AI simple for the enterprise.
           
@@ -240,7 +240,7 @@ params:
         GPA: "4.0 out of 4.3"
         content: |-
           Graduation thesis
-          - Quantization and Pruning Methods for Compressing Object Detection Networks. [Paper](https://cslab.or.kr/junukwon7/Junu_Kwon_CV.pdf)
+          - Quantization and Pruning Methods for Compressing Object Detection Networks. [Paper](https://cslab.or.kr/junukwon7/Junu_Kwon_thesis.pdf)
           
           Research
           - Compressing YOLO via Quantization and Pruning, *Silver medal* at 16th Asia-Pacific Conference on Giftedness, 2021, supervised by Assistant Prof. Jae-Pil Heo, SKKU.
