@@ -262,10 +262,12 @@ params:
         content: 2021년 한국정보올림피아드 2차대회 고등부, Ranked 73th among 205 contestants (TOP 35.61%)
       - title: Korea Olympiad in Informatics, 1st Round, Silver
         content: 2021년 한국정보올림피아드 1차대회 고등부 전체응시자부문, Ranked in the TOP 3.614%
-      - title: "SNU Core Computing: Thinking with Computers Course"
-        content: 컴퓨팅 핵심, Graded A+ TOP-1 score
       - title: SNUCSE Computer Programming Course
-        content: 컴퓨팅 핵심, Graded A+, Ranked 13th out of 167 students (TOP 7.78%)
+        content: 컴퓨터프로그래미, Graded A+, Ranked 13th out of 167 students (TOP 7.78%)
+      - title: SNUCSE Introduction to Artificial Intelligence
+        content: 인공지능 입문, Graded A+
+      - title: "SNU Core Computing: Thinking with Computers Course"
+        content: 컴퓨팅 핵심, Graded A+, TOP-1 score
 
   # projects
   projects:
