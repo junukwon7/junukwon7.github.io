@@ -138,13 +138,13 @@ params:
     # title: "Custom Name"
     items:
       - job: "ML Engineer"
-        company: "FriendliAi"
+        company: "FriendliAI"
         companyUrl: "https://friendli.ai"
         date: "Jul 2022 - present"
         featuredLink:
           enable: false
         content: |
-          I am currently working as a ML Engineer at [FriendliAi](https://friendli.ai) in SNU, Seoul.
+          I am currently working as a ML Engineer at [FriendliAI](https://friendli.ai) in SNU, Seoul.
           
           I work on a project hadling hyper-scale AI simple for the enterprise.
           
